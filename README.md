@@ -39,7 +39,7 @@ Age-Prompt-Demo/
 ## ⚙️ Usage
 1. Download or clone the repository
    ```bash
-   git clone https://github.com/<your-username>/Age-Prompt-Demo.git
+   git clone https://github.com/ahmed-raza-24/Age-Prompt-Demo.git
 Open the folder
 
 Open index.html in your browser
